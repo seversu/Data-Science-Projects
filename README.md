@@ -1,2 +1,1 @@
-# github-demo
-A simple depo repository
+# Machine Learning Projects
